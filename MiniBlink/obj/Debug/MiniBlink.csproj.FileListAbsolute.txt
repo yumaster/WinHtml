@@ -1,0 +1,8 @@
+C:\Users\yumas\Desktop\YJ\WinHtml\MiniBlink\obj\Debug\MiniBlink.Properties.Resources.resources
+C:\Users\yumas\Desktop\YJ\WinHtml\MiniBlink\obj\Debug\MiniBlink.csproj.GenerateResource.cache
+C:\Users\yumas\Desktop\YJ\WinHtml\MiniBlink\obj\Debug\MiniBlink.csproj.CoreCompileInputs.cache
+C:\Users\yumas\Desktop\YJ\WinHtml\MiniBlink\bin\Debug\MiniBlink.dll.config
+C:\Users\yumas\Desktop\YJ\WinHtml\MiniBlink\bin\Debug\MiniBlink.dll
+C:\Users\yumas\Desktop\YJ\WinHtml\MiniBlink\bin\Debug\MiniBlink.pdb
+C:\Users\yumas\Desktop\YJ\WinHtml\MiniBlink\obj\Debug\MiniBlink.dll
+C:\Users\yumas\Desktop\YJ\WinHtml\MiniBlink\obj\Debug\MiniBlink.pdb

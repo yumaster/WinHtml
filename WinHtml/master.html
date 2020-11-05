@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <script src="http://libs.baidu.com/jquery/2.1.4/jquery.min.js"></script>
+        <script>
+            var test_val;
+            function test() {
+                alert("收到Net程序事件 " + test_val);
+            }
+            function testArg(d1, d2) {
+                alert("收到Net程序事件1 " + d1);
+                alert("收到Net程序事件2 " + d2);
+            }
+
+            $(function () {
+                $('button:eq(0)').on("click", BtnClick);
+                $('button:eq(1)').on("click", BtnClickArgs);
+            })
+            function BtnClick() {
+                if (typeof jsObj == "undefined") {
+                    alert("jsObj参数未初始化")
+                    return;
+                }
+                jsObj.MessageText = "我是js";
+                jsObj.ShowTest();
+            }
+            function BtnClickArgs() {
+                if (typeof jsObj == "undefined") {
+                    alert("jsObj参数未初始化")
+                    return;
+                }
+                jsObj.ShowTestArg($('textarea:eq(0)').val());
+            }
+        </script>
+    </head>
+    <body>
+        <button style="margin-top:100px">发送给Net程序</button>
+        <button>发送给Net程序带参数</button>
+        <textarea cols="20" name="S1" rows="1"></textarea>
+<!--        <div style="width:500px; height:50px;">
+            <a href="master2.html">跳转第二页面</a>
+            <p>zhangyu</p>
+            <h1>zhangyu</h1>
+            <a style="color:red" href="master.html">zhangyu</a>
+        </div>-->
+    </body>
+</html>

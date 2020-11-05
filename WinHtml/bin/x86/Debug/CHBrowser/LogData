@@ -1,0 +1,2 @@
+[1105/104429.087:WARNING:resource_bundle.cc(327)] locale_file_path.empty() for locale 
+[1105/104429.087:ERROR:main_delegate.cc(684)] Could not load locale pak for zh-CN

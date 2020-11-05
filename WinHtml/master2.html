@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title></title>
+<meta charset="utf-8" />
+<script src="http://libs.baidu.com/jquery/2.1.4/jquery.min.js"></script>
+<script>
+        $(function () {
+            $('button:eq(0)').on("click", BtnClick);
+            $('button:eq(1)').on("click", BtnClickArgs);
+        })
+        function BtnClick() {
+            if (typeof jsObj == "undefined") {
+                alert("jsObj参数未初始化")
+                return;
+            }
+            jsObj.MessageText = "我是第二个页面的js";
+            jsObj.ShowTest();
+        }
+        function BtnClickArgs() {
+            if (typeof jsObj == "undefined") {
+                alert("jsObj参数未初始化-第二页面")
+                return;
+            }
+            jsObj.ShowTestArg($('textarea:eq(0)').val());
+        }
+</script>
+
+<button style="margin-top:100px">
+    发送给Net程序-master2
+</button>
+<button>
+    发送给Net程序带参数-master2
+</button>
+<textarea cols="20" name="S1" rows="1"></textarea>

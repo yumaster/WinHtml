@@ -1,0 +1,28 @@
+﻿<html>
+<head>
+    <title>this is a test</title>
+    <script type="text/javascript">
+            function Hello() {
+                 window.external.Hello();//getDebugPath()为c#方法
+                //alert("hello");
+             }
+    </script>
+</head>
+<body>
+    <img alt="" src="/image/home.png" style="height: 79px; width: 110px" onclick="window.external.Test('www.baidu.com'); return false" />
+
+
+
+
+    <button id="btn" onclick="Hello()">hello</button>
+
+    <script type="text/javascript">
+        function WfToHtml() {
+            alert("wf调用html里面的js函数");
+        }
+        function message(jsStr) {
+            eval(jsStr);
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,64 @@
+[1105/104427.199:WARNING:resource_bundle.cc(327)] locale_file_path.empty() for locale 
+[1105/104427.201:ERROR:main_delegate.cc(684)] Could not load locale pak for zh-CN
+[1105/104427.702:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.702:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.704:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.704:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.704:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.704:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.704:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.705:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.705:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.706:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.707:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.707:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.708:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.708:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.709:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.716:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.719:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.727:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.728:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.737:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.739:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.741:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.741:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.744:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.745:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.745:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.745:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.746:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.747:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.748:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.748:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.749:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.751:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.752:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.760:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.761:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.762:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.766:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.776:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.785:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.788:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.789:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.790:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104427.792:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104428.812:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104428.815:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104440.201:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104440.201:ERROR:content_client.cc(257)] No localized string available for id 4122
+[1105/104440.202:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104440.202:ERROR:content_client.cc(257)] No localized string available for id 4123
+[1105/104440.203:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104440.203:ERROR:content_client.cc(257)] No localized string available for id 4125
+[1105/104440.203:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104440.203:ERROR:content_client.cc(257)] No localized string available for id 4126
+[1105/104440.599:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104440.599:ERROR:content_client.cc(257)] No localized string available for id 4122
+[1105/104440.600:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104440.600:ERROR:content_client.cc(257)] No localized string available for id 4123
+[1105/104440.600:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104440.600:ERROR:content_client.cc(257)] No localized string available for id 4125
+[1105/104440.600:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1105/104440.600:ERROR:content_client.cc(257)] No localized string available for id 4126

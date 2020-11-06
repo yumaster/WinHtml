@@ -1,2 +1,172 @@
 [1105/104429.087:WARNING:resource_bundle.cc(327)] locale_file_path.empty() for locale 
 [1105/104429.087:ERROR:main_delegate.cc(684)] Could not load locale pak for zh-CN
+[1106/094236.236:WARNING:resource_bundle.cc(327)] locale_file_path.empty() for locale 
+[1106/094236.239:ERROR:main_delegate.cc(684)] Could not load locale pak for zh-CN
+[1106/094236.459:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.459:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.462:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.463:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.463:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.463:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.463:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.463:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.463:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.463:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.464:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.464:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.464:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.465:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.465:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.465:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.465:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.466:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.466:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.466:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.467:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.467:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.467:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.467:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.467:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.468:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.468:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.468:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.468:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.468:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.469:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.469:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.469:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.469:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.469:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.470:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.470:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.470:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.470:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.472:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.472:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.472:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.473:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094236.474:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094237.295:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094237.299:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094237.594:WARNING:resource_bundle.cc(327)] locale_file_path.empty() for locale 
+[1106/094237.594:ERROR:main_delegate.cc(684)] Could not load locale pak for zh-CN
+[1106/094238.481:INFO:CONSOLE(201)] "A Parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/bundles/polyfill_9354efa.js, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (201)
+[1106/094238.482:INFO:CONSOLE(201)] "A Parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/bundles/polyfill_9354efa.js, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (201)
+[1106/094238.484:INFO:CONSOLE(201)] "A Parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_304f482.js, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (201)
+[1106/094238.663:INFO:CONSOLE(189)] "每一个星球都有一个驱动核心，
+每一种思想都有影响力的种子。
+感受世界的温度，
+年轻的你也能成为改变世界的动力，
+百度珍惜你所有的潜力。
+你的潜力，是改变世界的动力！
+
+", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_304f482.js (189)
+[1106/094238.666:INFO:CONSOLE(189)] "%c百度2021校园招聘简历投递：https://talent.baidu.com/external/baidu/campus.html", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_304f482.js (189)
+[1106/094251.177:ERROR:browser_host_impl.cc(1556)] Invalid URL passed to CefBrowserHostImpl::LoadURL: 192.168.0.13:8007
+[1106/094255.849:ERROR:browser_host_impl.cc(1556)] Invalid URL passed to CefBrowserHostImpl::LoadURL: 192.168.0.13:8007
+[1106/094258.256:ERROR:browser_host_impl.cc(1556)] Invalid URL passed to CefBrowserHostImpl::LoadURL: 192.168.0.13:8007
+[1106/094307.544:ERROR:browser_host_impl.cc(1556)] Invalid URL passed to CefBrowserHostImpl::LoadURL: 192.168.0.13:8007
+[1106/094310.569:ERROR:browser_host_impl.cc(1556)] Invalid URL passed to CefBrowserHostImpl::LoadURL: 192.168.0.13:8007
+[1106/094311.185:ERROR:browser_host_impl.cc(1556)] Invalid URL passed to CefBrowserHostImpl::LoadURL: 192.168.0.13:8007
+[1106/094311.376:ERROR:browser_host_impl.cc(1556)] Invalid URL passed to CefBrowserHostImpl::LoadURL: 192.168.0.13:8007
+[1106/094311.552:ERROR:browser_host_impl.cc(1556)] Invalid URL passed to CefBrowserHostImpl::LoadURL: 192.168.0.13:8007
+[1106/094311.736:ERROR:browser_host_impl.cc(1556)] Invalid URL passed to CefBrowserHostImpl::LoadURL: 192.168.0.13:8007
+[1106/094313.161:ERROR:browser_host_impl.cc(1556)] Invalid URL passed to CefBrowserHostImpl::LoadURL: 192.168.0.13:8007
+[1106/094318.884:ERROR:interface_registry.cc(203)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by: content_renderer exposed by: content_browser via InterfaceProviderSpec "navigation:frame".
+[1106/094318.899:WARNING:interface_registry.cc(210)] 
+
+InterfaceRegistry(navigation:frame):
+Owned by:
+  content_browser@ run as: 813c1e89-25ba-4c4e-8be1-eba7f68f4eed
+
+  Providing:
+    capability: renderer containing interfaces:
+      autofill::mojom::AutofillDriver
+      autofill::mojom::PasswordManagerDriver
+      blink::mojom::MediaSessionService
+      blink::mojom::PermissionService
+      blink::mojom::PresentationService
+      blink::mojom::SensitiveInputVisibilityService
+      blink::mojom::WebBluetoothService
+      blink::mojom::WebSocket
+      content::mojom::BrowserTarget
+      device::VibrationManager
+      device::mojom::GeolocationService
+      device::mojom::SensorProvider
+      device::mojom::VRService
+      device::mojom::WakeLockService
+      device::nfc::mojom::NFC
+      device::usb::DeviceManager
+      discardable_memory::mojom::DiscardableSharedMemoryManager
+      extensions::KeepAlive
+      extensions::mime_handler::MimeHandlerService
+      media::mojom::InterfaceFactory
+      media::mojom::RemoterFactory
+      media::mojom::Renderer
+      mojom::MediaDevicesDispatcherHost
+      payments::mojom::PaymentRequest
+      shape_detection::mojom::BarcodeDetection
+      shape_detection::mojom::FaceDetectionProvider
+      shape_detection::mojom::TextDetection
+      ui::mojom::Gpu
+
+  Requiring:
+    From: content_renderer:
+      browser
+
+Bound to:
+  content_renderer@2_1 run as: 813c1e89-25ba-4c4e-8be1-eba7f68f4eed
+
+  Providing:
+    capability: browser containing interfaces:
+      blink::mojom::AppBannerController
+      blink::mojom::EngagementClient
+      blink::mojom::InstallationService
+      content::mojom::ImageDownloader
+      mojom::MediaDevicesListener
+
+  Requiring:
+    From: content_browser:
+      renderer
+
+Binders registered for:
+ * blink::mojom::MediaSessionService
+ * blink::mojom::PermissionService
+ * blink::mojom::PresentationService
+ * blink::mojom::WebBluetoothService
+ * blink::mojom::WebSocket
+ * device::VibrationManager
+ * device::mojom::GeolocationService
+ * device::mojom::VRService
+ * device::mojom::WakeLockService
+ * media::mojom::InterfaceFactory
+ * media::mojom::RemoterFactory
+ * mojom::MediaDevicesDispatcherHost
+
+ * - denotes an interface exposed to remote per policy.
+
+
+
+[1106/094329.346:INFO:CONSOLE(15)] "[object Object]", source: http://192.168.0.13:8007/js/login.js (15)
+[1106/094329.792:INFO:CONSOLE(78)] "[object Object]", source: http://192.168.0.13:8007/js/index.js (78)
+[1106/094329.853:INFO:CONSOLE(36)] "[object Object]", source: http://192.168.0.13:8007/js/index.js (36)
+[1106/094329.877:INFO:CONSOLE(23)] "[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]", source: http://192.168.0.13:8007/js/bodyTab.js (23)
+[1106/094333.005:INFO:CONSOLE(351)] "[object Object]", source: http://192.168.0.13:8007/page/TbWeigh/TbStockIn.html (351)
+[1106/094334.660:INFO:CONSOLE(309)] "[object Object]", source: http://192.168.0.13:8007/page/TbWeigh/TbStockOut.html (309)
+[1106/094339.803:INFO:CONSOLE(68)] "[object Object]", source: http://192.168.0.13:8007/page/BasicData/TbWarehouse.html (68)
+[1106/094339.837:INFO:CONSOLE(100)] "[object Object]", source: http://192.168.0.13:8007/page/BasicData/TbWarehouse.html (100)
+[1106/094341.057:INFO:CONSOLE(108)] "[object Object]", source: http://192.168.0.13:8007/page/BasicData/TbGoodType1.html?%257B%2520tag:%2520%27LoadYCLListTree%27,%2520%2520paras:%2520%271001$%2525%2525%27,PageSize:%27100%27,PageIndex:%271%27%257D (108)
+[1106/094341.119:INFO:CONSOLE(172)] "-1", source: http://192.168.0.13:8007/page/BasicData/TbGoodType1.html?%257B%2520tag:%2520%27LoadYCLListTree%27,%2520%2520paras:%2520%271001$%2525%2525%27,PageSize:%27100%27,PageIndex:%271%27%257D (172)
+[1106/094341.374:INFO:CONSOLE(160)] "[object Object]", source: http://192.168.0.13:8007/page/BasicData/TbGoodType2.html?10011000 (160)
+[1106/094342.586:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094342.586:ERROR:content_client.cc(257)] No localized string available for id 20111
+[1106/094342.662:INFO:CONSOLE(172)] "[object Object]", source: http://192.168.0.13:8007/page/BasicData/TbGuestByCydw.html (172)
+[1106/094342.708:INFO:CONSOLE(257)] "[object Object],[object Object]", source: http://192.168.0.13:8007/page/BasicData/TbGuestByCydw.html (257)
+[1106/094343.885:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094343.885:ERROR:content_client.cc(257)] No localized string available for id 20111
+[1106/094343.932:INFO:CONSOLE(175)] "[object Object]", source: http://192.168.0.13:8007/page/BasicData/TbGuestBySldw.html (175)
+[1106/094345.542:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1106/094345.542:ERROR:content_client.cc(257)] No localized string available for id 20111
+[1106/094345.610:INFO:CONSOLE(156)] "[object Object]", source: http://192.168.0.13:8007/page/BasicData/TbGuestByXldd.html (156)
+[1106/094351.616:INFO:CONSOLE(111)] "[object Object]", source: http://192.168.0.13:8007/page/BasicData/TbStock1.html?%257B%2520tag:%2520%27LoadYCLListTree%27,%2520%2520paras:%2520%271000$%2525%2525%27,PageSize:%27100%27,PageIndex:%271%27%257D (111)
+[1106/094351.909:INFO:CONSOLE(155)] "[object Object]", source: http://192.168.0.13:8007/page/BasicData/TbStock2.html?10001000 (155)

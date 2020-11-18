@@ -1,64 +1,116 @@
-[1105/104427.199:WARNING:resource_bundle.cc(327)] locale_file_path.empty() for locale 
-[1105/104427.201:ERROR:main_delegate.cc(684)] Could not load locale pak for zh-CN
-[1105/104427.702:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.702:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.704:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.704:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.704:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.704:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.704:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.705:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.705:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.706:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.707:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.707:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.708:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.708:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.709:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.716:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.719:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.727:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.728:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.737:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.739:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.741:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.741:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.744:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.745:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.745:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.745:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.746:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.747:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.748:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.748:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.749:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.751:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.752:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.760:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.761:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.762:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.766:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.776:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.785:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.788:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.789:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.790:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104427.792:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104428.812:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104428.815:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104440.201:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104440.201:ERROR:content_client.cc(257)] No localized string available for id 4122
-[1105/104440.202:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104440.202:ERROR:content_client.cc(257)] No localized string available for id 4123
-[1105/104440.203:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104440.203:ERROR:content_client.cc(257)] No localized string available for id 4125
-[1105/104440.203:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104440.203:ERROR:content_client.cc(257)] No localized string available for id 4126
-[1105/104440.599:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104440.599:ERROR:content_client.cc(257)] No localized string available for id 4122
-[1105/104440.600:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104440.600:ERROR:content_client.cc(257)] No localized string available for id 4123
-[1105/104440.600:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104440.600:ERROR:content_client.cc(257)] No localized string available for id 4125
-[1105/104440.600:WARNING:resource_bundle.cc(525)] locale resources are not loaded
-[1105/104440.600:ERROR:content_client.cc(257)] No localized string available for id 4126
+[1118/163929.592:WARNING:resource_bundle.cc(327)] locale_file_path.empty() for locale 
+[1118/163929.592:ERROR:main_delegate.cc(684)] Could not load locale pak for zh-CN
+[1118/163929.632:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.633:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.633:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.633:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.633:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.633:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.633:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.633:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.633:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.634:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.634:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.634:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.634:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.634:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.634:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.634:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.634:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.634:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.634:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.634:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.634:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.634:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.634:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.634:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.634:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.634:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.635:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.635:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.635:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.635:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.635:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.635:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.635:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.635:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.635:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.635:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.635:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.636:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.636:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.637:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.637:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.637:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.637:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163929.637:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163930.898:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163930.899:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/163942.902:INFO:CONSOLE(4)] "Uncaught TypeError: Cannot read property 'concat' of undefined", source: https://cdn.staticfile.org/jquery-mobile/1.4.5/jquery.mobile.min.js (4)
+[1118/163943.379:INFO:CONSOLE(1)] "Use of the Application Cache is deprecated on insecure origins. Support will be removed in the future. You should consider switching your application to a secure origin, such as HTTPS. See https://goo.gl/rStTGz for more details.", source: https://cdn.staticfile.org/modernizr/2010.07.06dev/modernizr.min.js (1)
+[1118/163943.445:INFO:CONSOLE(410)] "A Parser-blocking, cross site (i.e. different eTLD+1) script, https://v1.cnzz.com/z_stat.php?id=1279256136&online=1&show=line, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://yumaster.net/ (410)
+[1118/163943.450:INFO:CONSOLE(410)] "A Parser-blocking, cross site (i.e. different eTLD+1) script, https://v1.cnzz.com/z_stat.php?id=1279256136&online=1&show=line, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://yumaster.net/ (410)
+[1118/163943.661:INFO:CONSOLE(17)] "A Parser-blocking, cross site (i.e. different eTLD+1) script, https://c.cnzz.com/core.php?web_id=1279256136&show=line&online=1&t=z, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://v1.cnzz.com/z_stat.php?id=1279256136&online=1&show=line (17)
+[1118/163943.661:INFO:CONSOLE(17)] "A Parser-blocking, cross site (i.e. different eTLD+1) script, https://c.cnzz.com/core.php?web_id=1279256136&show=line&online=1&t=z, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://v1.cnzz.com/z_stat.php?id=1279256136&online=1&show=line (17)
+[1118/164003.422:INFO:CONSOLE(4)] "Uncaught TypeError: Cannot read property 'concat' of undefined", source: https://cdn.staticfile.org/jquery-mobile/1.4.5/jquery.mobile.min.js (4)
+[1118/164003.478:INFO:CONSOLE(264)] "A Parser-blocking, cross site (i.e. different eTLD+1) script, https://v1.cnzz.com/z_stat.php?id=1279256136&online=1&show=line, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://yumaster.net/links (264)
+[1118/164003.479:INFO:CONSOLE(264)] "A Parser-blocking, cross site (i.e. different eTLD+1) script, https://v1.cnzz.com/z_stat.php?id=1279256136&online=1&show=line, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://yumaster.net/links (264)
+[1118/164003.571:INFO:CONSOLE(1)] "Use of the Application Cache is deprecated on insecure origins. Support will be removed in the future. You should consider switching your application to a secure origin, such as HTTPS. See https://goo.gl/rStTGz for more details.", source: https://cdn.staticfile.org/modernizr/2010.07.06dev/modernizr.min.js (1)
+[1118/164003.644:INFO:CONSOLE(17)] "A Parser-blocking, cross site (i.e. different eTLD+1) script, https://c.cnzz.com/core.php?web_id=1279256136&show=line&online=1&t=z, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://v1.cnzz.com/z_stat.php?id=1279256136&online=1&show=line (17)
+[1118/164003.645:INFO:CONSOLE(17)] "A Parser-blocking, cross site (i.e. different eTLD+1) script, https://c.cnzz.com/core.php?web_id=1279256136&show=line&online=1&t=z, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://v1.cnzz.com/z_stat.php?id=1279256136&online=1&show=line (17)
+[1118/164011.419:INFO:CONSOLE(29)] "%cUnhandled rejection close", source: https://cdn.staticfile.org/bluebird/3.5.3/bluebird.min.js (29)
+[1118/164014.052:INFO:CONSOLE(29)] "%cUnhandled rejection close", source: https://cdn.staticfile.org/bluebird/3.5.3/bluebird.min.js (29)
+[1118/164016.333:INFO:CONSOLE(4)] "Uncaught TypeError: Cannot read property 'concat' of undefined", source: https://cdn.staticfile.org/jquery-mobile/1.4.5/jquery.mobile.min.js (4)
+[1118/164016.394:INFO:CONSOLE(410)] "A Parser-blocking, cross site (i.e. different eTLD+1) script, https://v1.cnzz.com/z_stat.php?id=1279256136&online=1&show=line, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://yumaster.net/ (410)
+[1118/164016.396:INFO:CONSOLE(410)] "A Parser-blocking, cross site (i.e. different eTLD+1) script, https://v1.cnzz.com/z_stat.php?id=1279256136&online=1&show=line, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://yumaster.net/ (410)
+[1118/164016.520:INFO:CONSOLE(1)] "Use of the Application Cache is deprecated on insecure origins. Support will be removed in the future. You should consider switching your application to a secure origin, such as HTTPS. See https://goo.gl/rStTGz for more details.", source: https://cdn.staticfile.org/modernizr/2010.07.06dev/modernizr.min.js (1)
+[1118/164016.535:INFO:CONSOLE(17)] "A Parser-blocking, cross site (i.e. different eTLD+1) script, https://c.cnzz.com/core.php?web_id=1279256136&show=line&online=1&t=z, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://v1.cnzz.com/z_stat.php?id=1279256136&online=1&show=line (17)
+[1118/164016.535:INFO:CONSOLE(17)] "A Parser-blocking, cross site (i.e. different eTLD+1) script, https://c.cnzz.com/core.php?web_id=1279256136&show=line&online=1&t=z, is invoked via document.write. This MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message.See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://v1.cnzz.com/z_stat.php?id=1279256136&online=1&show=line (17)
+[1118/165516.740:WARNING:resource_bundle.cc(327)] locale_file_path.empty() for locale 
+[1118/165516.743:ERROR:main_delegate.cc(684)] Could not load locale pak for zh-CN
+[1118/165516.819:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.819:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.824:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.826:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.827:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.829:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.833:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.833:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.834:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.843:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.846:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.852:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.855:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.856:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.859:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.868:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.869:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.869:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.869:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.870:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.874:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.877:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.878:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.878:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.879:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.879:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.879:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.879:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.880:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.880:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.880:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.880:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.880:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.880:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.880:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.880:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.881:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.881:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.881:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.882:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.882:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.882:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.882:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165516.882:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165517.744:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[1118/165517.747:WARNING:resource_bundle.cc(525)] locale resources are not loaded

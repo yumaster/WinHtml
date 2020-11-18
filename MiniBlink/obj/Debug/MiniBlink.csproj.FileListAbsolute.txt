@@ -9,7 +9,6 @@ C:\Users\yumas\Desktop\YJ\WinHtml\MiniBlink\obj\Debug\MiniBlink.pdb
 C:\Users\Administrator\Desktop\研究项目\YJ\WinHtml\MiniBlink\bin\Debug\MiniBlink.dll.config
 C:\Users\Administrator\Desktop\研究项目\YJ\WinHtml\MiniBlink\bin\Debug\MiniBlink.dll
 C:\Users\Administrator\Desktop\研究项目\YJ\WinHtml\MiniBlink\bin\Debug\MiniBlink.pdb
-C:\Users\Administrator\Desktop\研究项目\YJ\WinHtml\MiniBlink\obj\Debug\MiniBlink.csprojAssemblyReference.cache
 C:\Users\Administrator\Desktop\研究项目\YJ\WinHtml\MiniBlink\obj\Debug\MiniBlink.Properties.Resources.resources
 C:\Users\Administrator\Desktop\研究项目\YJ\WinHtml\MiniBlink\obj\Debug\MiniBlink.csproj.GenerateResource.cache
 C:\Users\Administrator\Desktop\研究项目\YJ\WinHtml\MiniBlink\obj\Debug\MiniBlink.csproj.CoreCompileInputs.cache

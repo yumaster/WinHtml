@@ -12,3 +12,17 @@ C:\Users\yumas\Desktop\YJ\WinHtml\MiniBlinkDemo\obj\Debug\MiniBlinkDemo.csproj.C
 C:\Users\yumas\Desktop\YJ\WinHtml\MiniBlinkDemo\obj\Debug\MiniBlinkDemo.csproj.CopyComplete
 C:\Users\yumas\Desktop\YJ\WinHtml\MiniBlinkDemo\obj\Debug\MiniBlinkDemo.exe
 C:\Users\yumas\Desktop\YJ\WinHtml\MiniBlinkDemo\obj\Debug\MiniBlinkDemo.pdb
+C:\Users\Administrator\Desktop\研究项目\YJ\WinHtml\MiniBlinkDemo\bin\Debug\MiniBlinkDemo.exe.config
+C:\Users\Administrator\Desktop\研究项目\YJ\WinHtml\MiniBlinkDemo\bin\Debug\MiniBlinkDemo.exe
+C:\Users\Administrator\Desktop\研究项目\YJ\WinHtml\MiniBlinkDemo\bin\Debug\MiniBlinkDemo.pdb
+C:\Users\Administrator\Desktop\研究项目\YJ\WinHtml\MiniBlinkDemo\bin\Debug\MiniBlink.dll
+C:\Users\Administrator\Desktop\研究项目\YJ\WinHtml\MiniBlinkDemo\bin\Debug\MiniBlink.pdb
+C:\Users\Administrator\Desktop\研究项目\YJ\WinHtml\MiniBlinkDemo\bin\Debug\MiniBlink.dll.config
+C:\Users\Administrator\Desktop\研究项目\YJ\WinHtml\MiniBlinkDemo\obj\Debug\MiniBlinkDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\研究项目\YJ\WinHtml\MiniBlinkDemo\obj\Debug\MiniBlinkDemo.Main.resources
+C:\Users\Administrator\Desktop\研究项目\YJ\WinHtml\MiniBlinkDemo\obj\Debug\MiniBlinkDemo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\研究项目\YJ\WinHtml\MiniBlinkDemo\obj\Debug\MiniBlinkDemo.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\研究项目\YJ\WinHtml\MiniBlinkDemo\obj\Debug\MiniBlinkDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\研究项目\YJ\WinHtml\MiniBlinkDemo\obj\Debug\MiniBlinkDemo.csproj.CopyComplete
+C:\Users\Administrator\Desktop\研究项目\YJ\WinHtml\MiniBlinkDemo\obj\Debug\MiniBlinkDemo.exe
+C:\Users\Administrator\Desktop\研究项目\YJ\WinHtml\MiniBlinkDemo\obj\Debug\MiniBlinkDemo.pdb

@@ -19,19 +19,31 @@ namespace MiniBlinkDemo
         {
             InitializeComponent();
         }
-
+        /// <summary>
+        /// C#直接运行JS代码，有返回值
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btn_runJsWithRet_Click(object sender, EventArgs e)
         {
             string strJs = "document.getElementById('text').innerHTML";
             object obj = m_wView.RunJS($"return {strJs}");    // 获取js代码的返回值，一定要加上return
-            MessageBox.Show($"{(string)obj}", $"【我是C#对话框】{strJs}的执行结果为：", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show($"这是返回值：{(string)obj}", $"【我是C#对话框】{strJs}的执行结果为：", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
-
+        /// <summary>
+        /// C#调用页面中的JS函数，无参数无返回值
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btn_InvokeJsNoRet_Click(object sender, EventArgs e)
         {
             m_wView.CallJsFunc("showText");
         }
-
+        /// <summary>
+        /// C#调用页面中的JS函数，有参数有返回值
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btn_InvokeJsWithRet_Click(object sender, EventArgs e)
         {
             string strFuncName = "getText";
@@ -44,7 +56,8 @@ namespace MiniBlinkDemo
         {
             m_wView = new WebView();
             m_wView.Bind(panel_bs);
-            m_wView.LoadHTML(GetDemoHtml());
+            //m_wView.LoadHTML(GetDemoHtml());
+            m_wView.LoadURL("192.168.0.206/HtmlDemo.html");
 
             m_wView.BindFunction("JsFunc1", new wkeJsNativeFunction(JsFunc1));
             m_wView.BindFunction("JsFunc2", new wkeJsNativeFunction(JsFunc2));
